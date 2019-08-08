@@ -19,7 +19,7 @@ const example = {
 
 // Write your intern objects here:
 let intern = [{"id":1,"name": "Mitzi", "email": "mmellow0@psu.edu", "gender": "F"},
-{"id": 2,"name":"Kennan", "email": "kdiben1@tinypic.com", "gender": "M", speak: function() {return "Hello, my name is Kennan!";} },
+{"id": 2,"name":"Kennan", "email": "kdiben1@tinypic.com", "gender": "M", speak: function() {return 5;} },
 {"id": 3, "name": "Keven", "email": "kmummery2@wikimedia.org", "gender": "M"},
 {"id": 4, "name": "Gannie", "email":"gmartinson3@illinois.edu", "gender":"M"},
 {"id": 5, "name": "Antonietta", "email":"adaine5@samsung.com", "gender":"F", multiplyNums: function(num1,num2) {return num1* num2;}}]
